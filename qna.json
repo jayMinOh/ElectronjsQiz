@@ -1,0 +1,26 @@
+[
+    {
+        "index" : 0,
+        "question" : "Q1.오겹살로 사용하는 부위는?",
+        "answer" : false,
+        "answers" : [{"true" : "미추리삼겹"}, {"false": "미박삼겹"}]
+    },
+    {
+        "index" : 1,
+        "question" : "x2 배팅 찬스",
+        "answer" : true,
+        "answers" : [{"true":"x2 배팅 퀴즈"}, {"false":"일반 퀴즈"}]
+    },
+    {
+        "index" : 2,
+        "question" : "Q3.소의 등갈비는 어느 것일까요?",
+        "answer" : true,
+        "answers" : [{"true":"백립"}, {"false":"로인 립"}]
+    },
+    {
+        "index" : 3,
+        "question" : "Q4.미트박스에서 사업자 상품은 식장 정육점만 구매 가능 하다.",
+        "answer" : false,
+        "answers" : [{"true": "O"}, {"false":"X"}]
+    }
+]
